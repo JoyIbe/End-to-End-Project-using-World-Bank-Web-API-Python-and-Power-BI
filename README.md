@@ -232,7 +232,7 @@ The **notebook** automates the end-to-end pull with `wbdata`:
 
 **Data:** `data/G20.csv` (one row per `country × year` with indicator columns)
 
-**Interact with Viz:** [Power BI Service](https://app.powerbi.com/reportEmbed?reportId=6701de11-2089-4190-b406-2d934a4d127f&autoAuth=true&ctid=0801c8b7-f6a9-44a2-8891-282fd58fab33)
+**Interact with Viz:** [Power BI Service](https://app.powerbi.com/viewr=eyJrIjoiODg5OGI4ODMtYTM2Ny00M2IyLTlhM2YtOGZhZDRmNDUyZDM4IiwidCI6IjZlMjY5MzE1LWM2NTAtNDM3Zi1iMzE3LTFhODQyOWRlZjM3MyJ9)
 
 **Main visuals (as in the screenshot):**
 

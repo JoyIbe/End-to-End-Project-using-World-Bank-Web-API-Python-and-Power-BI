@@ -1,8 +1,11 @@
 # Analysing Socio-Economic Parameters (World Bank API)
 
 **Project Type:** Data retrieval → cleaning/EDA → interactive visualization
-**Scope:** G20 economies, **2018–2023**
+
+**Scope:** G20 + Nigeria economies, **2018–2023**
+
 **Tools:** Python (`wbdata`, `pandas`, `matplotlib/seaborn`), Power BI
+
 
 <img width="576" height="325" alt="WB Dash" src="https://github.com/user-attachments/assets/dd3ae42b-48c8-458d-96e4-b8a950e1a830" />
 

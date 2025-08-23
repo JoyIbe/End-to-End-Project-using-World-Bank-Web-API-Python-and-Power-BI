@@ -10,7 +10,6 @@
 <img width="576" height="325" alt="WB Dash" src="https://github.com/user-attachments/assets/dd3ae42b-48c8-458d-96e4-b8a950e1a830" />
 
 ---
-
 ## Table of Contents
 
 * [Project Overview](#project-overview)
